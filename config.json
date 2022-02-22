@@ -1,0 +1,9 @@
+{
+	"ip":"blumssmp.aternos.me",
+	"port": "596976",
+	"name": "gobbot112233",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
